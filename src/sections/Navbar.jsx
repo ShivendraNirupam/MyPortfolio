@@ -31,7 +31,7 @@ const Navbar = () => {
           <a href="" className='text-xl font-bold transition-colors text-neutral-400 hover:text-white'>Nirupam</a>
 
           <button onClick={() => setIsOpen(!isOpen)} className='flex  cursor-pointer text-neutral-400 hover:text-white focus:outline-none sm:hidden'>
-            <img src={isOpen ? "./assets/close.svg" : "./assets/menu.svg"} alt="toggle" className='size-6'/>
+            <img src={isOpen ? "assets/close.svg" : "assets/menu.svg"} alt="toggle" className='size-6'/>
           </button>
 
           <nav className='hidden sm:flex'>
