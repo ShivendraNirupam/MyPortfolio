@@ -192,7 +192,7 @@ const cards = [
   {
     description: "A real-time chat application ",
     title: "Chat App",
-    src: "public/assets/projects/image.png",
+    src: "assets/projects/image.png",
     ctaText: "Show",
     ctaLink: "https://github.com/ShivendraNirupam/chat-app",
     content: () => {
@@ -212,7 +212,7 @@ const cards = [
   {
     description: "The Buddha brot set in C++ ",
     title: "Buddha Brot set",
-    src: "public/assets/projects/image2.jpg",
+    src: "assets/projects/image2.jpg",
     ctaText: "Show",
     ctaLink: "https://github.com/ShivendraNirupam/mandelbrotset",
     content: () => {
@@ -231,7 +231,7 @@ const cards = [
   {
     description: "The Julia set in C++ ",
     title: "Julia set",
-    src: "public/assets/projects/image3.jpg",
+    src: "assets/projects/image3.jpg",
     ctaText: "Show",
     ctaLink: "https://github.com/ShivendraNirupam/JuliaSet",
     content: () => {
